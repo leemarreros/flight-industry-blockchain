@@ -10,7 +10,7 @@ For airlines:
 2. Once there are more then four airlines, they need to vote (multiparty consensus) in order to add a new one.
 3. An airline needs to fund 10 Ether in order to be allowed to list flights for customers
 
-![image-20210923191840946](/Users/steveleec/Library/Application Support/typora-user-images/image-20210923191840946.png)
+![AirlineManagement](/airline-mgm.png)
 
 For customers:
 
@@ -18,7 +18,7 @@ For customers:
 2. Customers can purchase an insurance for securing his flights in case a flight is delayed
 3. In case of a delayed flight, Customers are able to get a refund plus an additional 50%
 
-![image-20210923192157921](/Users/steveleec/Library/Application Support/typora-user-images/image-20210923192157921.png)
+![PassengerManagement](/passenger-mgm.png)
 
 For Oracles:
 
